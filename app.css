@@ -1,0 +1,142 @@
+main {
+    background-color: #d1ecfd;
+}
+#navtog {
+    padding-left: 6rem;
+    font-size: 20px;
+}
+#nvbar {
+    background-color: rgb(22, 22, 21);
+    font-size: 1rem;
+    align-content: center;
+}
+#nvbar a { 
+    padding: 10px;
+    color: honeydew;
+}
+#company {
+    font-size: 1.5rem;
+    font-weight: bolder;
+    text-decoration: none;
+}
+#navtog a:hover {
+    background-color: khaki;
+    color: maroon;
+}
+#donateimg {
+    padding-top: 80px;
+    display: flex;
+    flex-direction: column;
+    align-content: flex-end;
+    
+    
+}
+#paybutton {
+     padding-top: 60px;
+}
+#homtxt {
+    padding-top: 5rem;
+    padding-left: 6rem;
+}
+#first {
+    font-size: 1.85rem;
+    font-style: normal;
+    font-weight: 500;
+}
+#second {
+    padding: 0mm;
+    font-size: 3rem;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+}
+#third {
+    font-weight: 500;
+    font-style: normal;
+}
+
+.txt {
+    padding-top: 5rem;
+    padding-left: 6rem;
+    font-size: 2rem;
+    font-weight: 700;
+    font-family: 'Dancing Script', cursive;
+}
+.txt-credit {
+    font-size: ;
+    text-align: end;
+    font-weight: 600;
+    font-style: normal;
+}
+#disburserows {
+    margin-left: 6rem;
+    margin-right: 6rem;
+}
+#disbursed {
+    background-color: rgb(22, 22, 21);
+}
+
+#disbursed .boxes1 {
+    background-color: #d1ecfd;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-top: 4rem;
+    margin-bottom: 1rem;
+    padding: 2rem;
+    border-radius: 5%;
+}
+
+#disbursed .boxes2 {
+    background-color: #d1ecfd;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 4rem;
+    padding: 2rem;
+    border-radius: 5%;
+    
+}
+#donorstory {
+    padding-top: 4rem;
+    padding-bottom: 2rem;
+}
+#donorstory h1 div{
+    font-family: 'Oswald', sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+    margin-bottom: 2rem;
+}
+#donorstory .name {
+    font-family: 'Architects Daughter', cursive;
+    font-family: 'Limelight', cursive;
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+
+}
+#donorstory .story {
+    font-family: 'Architects Daughter', cursive;
+    font-family: 'Patrick Hand', cursive;
+    font-size: 30px;
+
+}
+
+#footer {
+    background-color: black;
+    padding-top: 0.7rem ;
+    height: 90px;
+    text-align: center;
+    color: honeydew;
+}
+
+.foot a {
+    padding: 0.7rem;
+    font-size: 17px;
+}
+
+.footp {
+    padding-top: 1rem ;
+}
+.foot a:hover {
+    background-color: khaki;
+    color: maroon;
+    border-radius: 50%;
+}
